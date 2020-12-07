@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.boot</groupId>
 	<artifactId>springboot-freemark</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-freemark</name>
 	<description>Demo project for Spring Boot</description>
